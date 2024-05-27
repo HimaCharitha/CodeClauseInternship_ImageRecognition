@@ -1,5 +1,5 @@
 # CodeClauseInternship_Image_Recognition
-# Image Classifier using CNN
+## Image Classifier using CNN
 
 ## Aim
 The aim of this project is to build an image classifier that can classify images into predefined categories using a trained Convolutional Neural Network (CNN) model.
